@@ -1,0 +1,4 @@
+.env
+node_modules
+logs
+db_slackbutton_slash_command
